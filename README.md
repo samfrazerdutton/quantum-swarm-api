@@ -33,7 +33,7 @@ Secures any client-to-client communication against both classical and quantum co
 [BLOCKED] REPLAY ATTACK: nonce already consumed.
 
 -- Step 6: Tampered Signature --
-[BLOCKED] INVALID SIGNATURE: Dilithium3 verification failed.
+[BLOCKED] INVALID SIGNATURE: ML-DSA-65 verification failed.
 
 === Demo complete ===
 ```
